@@ -6,18 +6,18 @@ Dalam membuat proyek Internet of Things (IoT) sederhana ini, rangkaian Running L
 WiFi ESP8266 pada Wemos D1 R1 ini dapat digunakan dengan cara Access Point atau Hotspot yang memiliki alamat IP 192.168.4.1.
 
 Alat dan perangkat yang diperlukan dalam membuat proyek:
-Solder dan timah (untuk menyolder rangkaian Running LED)
-Komputer dan Software Arduino IDE
-USB dan jumper wire
+1. Solder dan timah (untuk menyolder rangkaian Running LED)
+2. Komputer dan Software Arduino IDE
+3. USB dan jumper wire
 
 Komponen yang digunakan untuk rangkaian Running LED:
-LED
-Resistor
-Kapasitor
-Dioda
-IC 555
-IC 4017
-Wemos D1 R1 ESP8266
+1. LED
+2. Resistor
+3. Kapasitor
+4. Dioda
+5. IC 555
+6. IC 4017
+7. Wemos D1 R1 ESP8266
 
 Video Penjelasan:
 https://youtu.be/9mhxv6X6SrM
